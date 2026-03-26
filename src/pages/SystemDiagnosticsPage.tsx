@@ -1017,6 +1017,7 @@ export default function SystemDiagnosticsPage({
             onClick={() => {
               window.history.back();
             }}
+            size="icon"
           >
             <ChevronLeft className="size-4 shrink-0" />
           </Button>

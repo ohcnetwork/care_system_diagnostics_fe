@@ -1,7 +1,7 @@
 import SystemDiagnosticsPage from "@/pages/SystemDiagnosticsPage";
 
 const routes = {
-  "/facility/:facilityId/diagnostics": ({
+  "/facility/:facilityId/settings/diagnostics": ({
     facilityId,
   }: {
     facilityId: string;
