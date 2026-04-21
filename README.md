@@ -10,7 +10,7 @@ A comprehensive diagnostics plugin for the CARE platform that helps healthcare f
 
 ### Setup Instructions
 
-1. First you will need to setup both Care backend and frontend first before starting the system_diagnostics development server
+1. Setup both Care backend and frontend first before starting the system_diagnostics development server
 2. Clone the CARE System Diagnostics repository:
 
 ```bash
