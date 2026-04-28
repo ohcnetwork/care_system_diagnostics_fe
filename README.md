@@ -6,7 +6,7 @@ A comprehensive diagnostics plugin for the CARE platform that helps healthcare f
 
 ### Prerequisites
 
-- Node.js and npm (refer `care_fe` repository for the exact version requirements)
+- Node.js and npm (use the version required by this repository, as declared in `package.json` under `engines.node`)
 
 ### Setup Instructions
 
